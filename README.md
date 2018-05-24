@@ -80,6 +80,8 @@ admin.py
 Changelist
 ----------
 
+0.4.1 - fix references to js static files in NestedInline
+
 0.4.0 - support only django 2
 
 0.3.7 - added support for django 1.10, fix unique fieldset id
