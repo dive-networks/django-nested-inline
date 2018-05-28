@@ -80,6 +80,8 @@ admin.py
 Changelist
 ----------
 
+0.4.2 - remove comments with nav-bg.gif references
+
 0.4.1 - fix references to js static files in NestedInline
 
 0.4.0 - support only django 2
